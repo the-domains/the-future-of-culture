@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The future of culture]]></title>
+        <description><![CDATA[The future of culture]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 01 Dec 2015 09:33:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The toddler-friendly museum]]></title>
+            <description><![CDATA[<article><h1>The toddler-friendly museum</h1><p>I visited the Rijksmuseum with my son last Monday. His verdict: "Mooi", which is Dutch for beautiful and toddler speak for everything that stands out in a good or fun way. My verdict: I've been to the Rijksmuseum many times, mostly in (semi-)professional capacity.</p><img src="http://themuseumofthefuture.com/tmotf_live_12nu/wp-content/uploads/shutterstock_199307261-Anton-Havelaar-Shutterstock.com-EDITORIALsm-785x510.jpeg"></article>]]></description>
+            <link>http://themuseumofthefuture.com/2015/10/29/the-toddler-friendly-museum/</link>
+            <guid isPermaLink="false">18542622-e54c-40be-b0a6-7c7550907a29</guid>
+            <pubDate>Tue, 01 Dec 2015 09:33:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
